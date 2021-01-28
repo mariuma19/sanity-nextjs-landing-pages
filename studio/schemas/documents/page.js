@@ -15,6 +15,11 @@ export default {
       title: 'Title',
     },
     {
+      name: 'somedata',
+      type: 'string',
+      title: 'Enter Here',
+    },
+    {
       name: 'content',
       type: 'array',
       title: 'Page sections',
